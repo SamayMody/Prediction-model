@@ -1,4 +1,5 @@
-# Prediction-model
+# Prediction-model 💹
+
 
 ## Description 😉: 
 Based on the dataset given the following code uses **Linear Regression** machine learning algorithm which predict's the **Score** a student will get depending on the number of **Hours** he/she studies.
