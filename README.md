@@ -10,7 +10,7 @@ To run this project the following steps have to be followed :
 -  Install dependencies : **pip install -r requirements.txt**
 ## Prerequisites 🤓 :
 - Python 3.7+
-- Google Colab or Jupiter Notebook
+- Google Colab or Jupyter Notebook
 - pandas
 - scikit-learn
 - matplotlib
