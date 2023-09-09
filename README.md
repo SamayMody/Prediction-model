@@ -9,7 +9,9 @@ To run this project the following steps have to be followed :
 - Clone the repository using , git clone [**https://github.com/SamayMody/Prediction-model**](https://github.com/SamayMody/Prediction-model)
 - Navigate to my project directory : cd /content
 -  Install dependencies : **pip install -r requirements.txt**
-## Prerequisites 🤓 :
+**(else)**
+- Click on **"Open in google colab"** while you are viewing in  the code and run it there without any hassle!
+ ## Prerequisites 🤓 :
 - Python 3.7+
 - Google Colab or Jupyter Notebook
 - pandas
