@@ -10,7 +10,7 @@ To run this project the following steps have to be followed :
 - Navigate to my project directory : cd /content
 -  Install dependencies : **pip install -r requirements.txt**
 **(else)**
-- Click on **"Open in google colab"** while you are viewing the [**code**](https://github.com/SamayMody/Prediction-model/blob/main/Prediction_using_supervised_ML.ipynb) and run it there without any hassle!
+- Click on **"Open in Colab"** while you are viewing the [**code**](https://github.com/SamayMody/Prediction-model/blob/main/Prediction_using_supervised_ML.ipynb) and run it there without any hassle!
  ## Prerequisites 🤓 :
 - Python 3.7+
 - Google Colab or Jupyter Notebook
